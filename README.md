@@ -5,5 +5,7 @@ A small side project of a programmable E-Stop like button!
 ## Required Hardware
 - ESP32-S3
 - Tactile Push Button
-- 2 Dupont Wires
+- 2x Dupont Wires
 - Pen Spring
+- 4x 2.5mm M3 Threaded Heat Inserts
+- 4x M3 Screws
