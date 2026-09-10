@@ -9,3 +9,4 @@ A small side project of a programmable E-Stop like button!
 - Pen Spring
 - 4x 2.5mm M3 Threaded Heat Inserts
 - 4x M3 Screws
+- Red, Yellow, Gray, & Black filament
